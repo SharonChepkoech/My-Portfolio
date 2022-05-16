@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,300;1,400&display=swap');
+
+.logo{
+    margin-left: 8%;
+    margin-top: 2%;
+    font-size: 185%;
+}
+.logo span{
+    color: #5BCCD9;
+}
+nav{
+    margin-left: 45%;
+    margin-top: -6.9%;
+    position: sticky;
+    top: 0px;
+    background-color: aqua;
+
+    
+}
+
+.nav{
+    position: relative;
+    
+}
+nav li{
+    display: flex;
+    display: inline-block;
+    padding: 2%;
+}
+nav li a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 165%;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: #5BCCD9;
+}
+#home{
+    display: flex;
+    background-color: #363B45;
+    height: 570px;
+}
+.cheko-me{
+
+    margin-top: 7%;
+    margin-left: 8%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 37px;
+    color: #ffff;
+}
+.cheko-me span{
+    color: #5BCCD9;
+}
+.cheko{
+    margin-left: 8%;
+    margin-top: 3%;
+}
+#about{
+    margin-top: -2%;
+    background-color: #fff;
+    height: 400px;
+}
+#about h2{ 
+    text-align: center;
+}
+#about p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    color: #000;
+    text-align: center;
+}
+.but{
+    margin-left: 43%;
+    height: 52px;
+    width: 14%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 122%;
+    font-weight: 900;
+    background-color: #5BCCD9;
+    border-radius: 12px;
+}
+#skills{
+    background-color: #363B45;
+    height: 420px;
+}
+.skil{
+    margin-left: 55%;
+}
+.skil{
+    font-family: 'Poppins', sans-serif;
+    font-size: 122%;
+}
+.abu{
+    border: 1px solid #5BCCD9;
+}
